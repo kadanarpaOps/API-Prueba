@@ -10,7 +10,7 @@ public class PruebaController {
 
     @GetMapping("/saludar")
     public String saludar(){
-        return "Hola Mundo";
+        return "Hola Mundo, Probando";
     }
 
 }
